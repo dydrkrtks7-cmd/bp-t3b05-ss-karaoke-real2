@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://balsan-karaoke-note.maphoshirts.space/sitemap.xml
+Sitemap: https://balsan-karaoke-note.maphoshirts.space/sitemap-pages.xml
